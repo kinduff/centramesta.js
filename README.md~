@@ -2,6 +2,7 @@
 Plugin básico que utiliza jQuery para centrar elementos de manera rápida.
 ## Uso
 Agrega el script y llama a la función de la siguiente manera
+
 ```javascript
 $("#midiv").centramesta();
 ```
